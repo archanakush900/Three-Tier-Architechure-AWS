@@ -51,7 +51,6 @@ three-tier-architecture-aws/
     ├── frontend_server.md     # Frontend server configurations
     ├── backend_server.md     # Backend server configurations
     ├── nginx_config     # Nginx server configurations
-Local Setup
 Prerequisites
 Web server with PHP support (XAMPP, WAMP, MAMP, etc.)
 MySQL database
